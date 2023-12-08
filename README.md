@@ -1,8 +1,5 @@
-# DatasetCorcyra-cephalonica
-Life tables experiment of Corcyra cephalonica
+Dataset associated with the paper of Rossini et al. (2021) on Corcyra cephalonica life tables.
 
-The publication associated with this dataset is:
+Please if you use this dataset cite the following paper:
 
-Rossini Luca, Speranza Stefano , Severini Maurizio, Locatelli Daria Patrizia, Limonta Lidia. Life tables and a physiologically based model application to Corcyra cephalonica (Stainton) populations. Journal of Stored Product Research 91, 101781.
-
-https://doi.org/10.1016/j.jspr.2021.101781
+*[L. Rossini, S. Speranza, M. Severini, D. P. Locatelli, L. Limonta. (2021). Life tables and a physiologically based model application to Corcyra cephalonica (Stainton) populations.](https://doi.org/10.1016/j.jspr.2021.101781)
